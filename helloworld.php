@@ -1,4 +1,4 @@
 <?php
   echo 'Hello, world!';
-  echo readfile(""index.html"");
+  echo readfile("index.html");
 ?>
